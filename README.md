@@ -1,4 +1,4 @@
-👋 Hi, I’m @danishBytes
+👋 Hi, I’m Md Danish
 
 👀 I’m interested in Machine Learning, Data Science, and their applications in the field of Artificial Intelligence.
 
